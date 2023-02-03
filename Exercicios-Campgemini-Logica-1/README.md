@@ -1,18 +1,54 @@
-## Getting Started
+## Elaboração de Algoritmos - Start By Campgemini ✔️
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+*Elaboração de Algoritmos para treinamento em curso de Lógica de Programação, do programa Start By Campgemini. Em Janeiro/2023.*
 
-## Folder Structure
+#### *🖇 Neste repositório temos algoritmos escritos na Linguagem Java, abordando:*
 
-The workspace contains two folders by default, where:
+*◽️ Criação de Pacotes e Classes.*
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+*◽️ Criação de variáveis.*
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+*◽️ Uso de Estrutura Condicional  If e Else.*
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+*◽️ Uso de Estrutura de Repetição  for.*
 
-## Dependency Management
+*◽️ Uso de laço While.*
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+*◽️ Uso de estrutura de escolha de caso Switch.*
+
+
+*Uso de Operadores Lógicos:*
+
+*✅ Operador && (" e ").*
+
+*✅ Operador || (" ou").*
+
+*✅ Operador ! (" Não ").*
+
+*Uso de Operadores Aritméticos:*
+
+*✅ Adição ( + ).*
+
+*✅ Subtração ( - ).*
+
+*✅ Multiplição ( * ).*
+
+*✅ Divisão ( / ).*
+
+*✅ Mod ( % ).*
+
+#### *🧮 Algoritmos para resolução de problemáticas como:*
+
+*◽️ Cálculo de Médias.*
+
+*◽️ Cálculo de Porcentagens.*
+
+*◽️ Concatenação de variáveis e textos.*
+
+*◽️ Criação de variável temporária.*
+
+*◽️ Escolha de caso baseado em varíavel.*
+
+*...Dentre outros tipos de algoritmos importantes para se trabalhar Lógica de Programação no cotidiano.*
+
+*Gostou? Deixe sua ⭐️❤️*
